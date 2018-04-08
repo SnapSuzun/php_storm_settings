@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fb29e4f3-3178-4799-82e7-1b72205114f6" name="2wtrade" url="http://2wtrade-pay.com">
+        <fileTransfer host="2wtrade-pay.com" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/wtrade" accessType="SFTP" keyPair="true" username="list_account">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
