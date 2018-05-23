@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="yii" type="PLAIN_TEXT" />
-      <mapping pattern="BluedartStatuses" type="PLAIN_TEXT" />
-      <mapping pattern="tewtewtew" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="RecommendedPriceForm" type="PLAIN_TEXT" />
+      <mapping pattern="tewtewtew" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
+      <mapping pattern="BluedartStatuses" type="PLAIN_TEXT" />
+      <mapping pattern="RecommendedPriceForm" type="PLAIN_TEXT" />
+      <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping pattern="ReccomendedPriceComponentGroup" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="testStatuses" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
