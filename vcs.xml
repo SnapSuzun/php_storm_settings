@@ -14,9 +14,13 @@
           <option name="url" value="http://git.rssystems.ru" />
           <option name="userName" value="nevzorov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:2wtrade/2wtrade-pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Work\" />
+    <option name="cloneParentDir" value="C:\WWW" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
