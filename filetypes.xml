@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="mongo_up" type="PLAIN_TEXT" />
+      <mapping pattern="devpaycli" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="initvpndb" type="PLAIN_TEXT" />
