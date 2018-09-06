@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="erp-cli-dev" type="PLAIN_TEXT" />
+      <mapping pattern="erp-cli" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="mongo_up" type="PLAIN_TEXT" />
       <mapping pattern="devpaycli" type="PLAIN_TEXT" />
