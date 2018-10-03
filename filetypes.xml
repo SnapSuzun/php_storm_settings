@@ -5,6 +5,7 @@
       <mapping pattern="erp-cli" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="erp-cli-fionov" type="PLAIN_TEXT" />
+      <mapping pattern="testStatuses" type="PLAIN_TEXT" />
       <mapping pattern="mongo_up" type="PLAIN_TEXT" />
       <mapping pattern="devpaycli" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
