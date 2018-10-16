@@ -9,6 +9,7 @@
       <mapping pattern="erp-cli-fionov" type="PLAIN_TEXT" />
       <mapping pattern="devpaycli" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
