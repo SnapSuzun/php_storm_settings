@@ -13,6 +13,7 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="initvpndb" type="PLAIN_TEXT" />
       <mapping ext="initlogs" type="PLAIN_TEXT" />
