@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="erp-cli-dev" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="erp-cli" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="testStatuses" type="PLAIN_TEXT" />
@@ -12,6 +14,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
