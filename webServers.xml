@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="29b82d65-8658-45e6-9525-5cfc59fdec6e" name="new_2wtrade_pay" url="http://88.208.63.28">
+        <fileTransfer host="88.208.63.28" port="222" privateKey="C:\Users\admin\.ssh\id_rsa" rootFolder="/home/wtrade" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b1cc9fa7-ac39-493c-a474-5c5657579029" name="2wtrade@DS5734" url="http://88.208.41.237">
+        <fileTransfer host="88.208.41.237" port="222" privateKey="C:\Users\admin\.ssh\id_rsa" rootFolder="/home/wtrade" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="222" />
+        </fileTransfer>
+      </webServer>
       <webServer id="fb29e4f3-3178-4799-82e7-1b72205114f6" name="2wtrade" url="http://2wtrade-pay.com">
         <fileTransfer host="2wtrade-pay.com" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/wtrade" accessType="SFTP" keyPair="true" username="list_account">
           <advancedOptions>
