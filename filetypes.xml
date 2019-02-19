@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="cfn" type="PLAIN_TEXT" />
