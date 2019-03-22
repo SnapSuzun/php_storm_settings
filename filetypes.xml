@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".selected_editor" type="PLAIN_TEXT" />
-      <mapping pattern=".Xauthority" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern=".selected_editor" type="PLAIN_TEXT" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".Xauthority" type="PLAIN_TEXT" />
       <mapping ext="cfn" type="PLAIN_TEXT" />
+      <mapping ext="crontab" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
